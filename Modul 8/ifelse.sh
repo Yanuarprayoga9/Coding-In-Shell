@@ -1,4 +1,4 @@
-clear
+
 echo -n "a = "
 read a;
 echo " "
